@@ -13,5 +13,20 @@
         "icon": "<i class='fa-solid fa-drumstick-bite'></i>",
         "title": "Separando Orgânico",
         "message": "Quando for separar o lixo orgânico, lembre-se, todo lixo que tiver resto de comida e não dê para lavar e limpar antes de jogar fora, é orgânico."
+    },
+    {
+        "icon": "<i class='fa-solid fa-trash-can'></i>",
+        "title": "Separando Lixo",
+        "message": "Usar latas diferentes para destinar lixo úmido ou biodegradável e outra para lixo seco e não-biodegradável."
+    },
+    {
+        "icon": "<i class='fa-solid fa-boxes-stacked'></i>",
+        "title": "Lixo Não Biodegradável",
+        "message": "Para uma melhor separação de lixos, use seções como reciclável, tóxico e ecológico. No reciclável você pode colocar jornais, revistas, etc. No Tóxico, pilhas, termômetros, lâmpadas, etc. E no ecológico recebem cascas de frutas, ovos, etc."
+    },
+    {
+        "icon": "<i class='fa-solid fa-recycle'></i>",
+        "title": "Lixo Limpo",
+        "message": "Sempre remova as sobras de alimento de qualquer plástico ou papel, antes de colocá-los no lixo."
     }
 ]
