@@ -8,5 +8,10 @@
         "icon": "<i class='fa-solid fa-slash'></i>",
         "title": "Espeto de Churrasco",
         "message": "Para jogar espetos de churrasco no lixo, basta seguir as mesmas dicas do vidro ou quebrar a ponta do espeto para que o coletor não corra risco de ser furado."
+    },
+    {
+        "icon": "<i class='fa-solid fa-drumstick-bite'></i>",
+        "title": "Separando Orgânico",
+        "message": "Quando for separar o lixo orgânico, lembre-se, todo lixo que tiver resto de comida e não dê para lavar e limpar antes de jogar fora, é orgânico."
     }
 ]
