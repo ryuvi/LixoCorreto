@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "<i class='fa-solid fa-wine-glass-empty'></i>",
+        "title": "Vidro Quebrado",
+        "message": "A melhor forma de se jogar vidro quebrado no lixo, é juntando os seus pedaços e colocando em uma caixa de papelão (ex: Caixa de leite) ou em uma garrafa PET, e tampando o recipiente para que o vidro não saia e não machuque o coletor."
+    },
+    {
+        "icon": "<i class='fa-solid fa-slash'></i>",
+        "title": "Espeto de Churrasco",
+        "message": "Para jogar espetos de churrasco no lixo, basta seguir as mesmas dicas do vidro ou quebrar a ponta do espeto para que o coletor não corra risco de ser furado."
+    }
+]
